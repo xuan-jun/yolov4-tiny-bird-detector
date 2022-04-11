@@ -1,0 +1,75 @@
+data/obj/Black-crowned night heron/9c618b269d.jpg
+data/obj/Yellow bittern/449d98f886.jpg
+data/obj/Eastern cattle egret/536b0c833d.jpg
+data/obj/Grey heron/301db5fbf0.jpg
+data/obj/Yellow bittern/f9aa1e9877.jpg
+data/obj/Striated heron/a8f1fb16e5.jpg
+data/obj/Common sandpiper/7ff6b72d7b.jpg
+data/obj/Yellow bittern/f37a2827e9.jpg
+data/obj/White-breasted waterhen/da1e66ef15.jpg
+data/obj/Eastern cattle egret/06a92d496a.jpg
+data/obj/Yellow bittern/5bc5ab6512.jpg
+data/obj/Purple heron/1ea9521813.jpg
+data/obj/Purple heron/f6c9675410.jpg
+data/obj/Chinese pond heron/f84815efc1.jpg
+data/obj/Black-crowned night heron/4b54df3ce7.jpg
+data/obj/Grey heron/aa29c05d30.jpg
+data/obj/Striated heron/edae514886.jpg
+data/obj/White-breasted waterhen/b6be84a24b.jpg
+data/obj/Striated heron/93efae8549.jpg
+data/obj/Yellow bittern/752ba3f682.jpg
+data/obj/White-breasted waterhen/f8a98c811c.jpg
+data/obj/Striated heron/e74e8f7c69.jpg
+data/obj/Grey heron/917fc12d45.jpg
+data/obj/Chinese pond heron/bd522e0df2.jpg
+data/obj/Little egret/18250f8630.jpg
+data/obj/White-breasted waterhen/f8892764f2.jpg
+data/obj/Black-crowned night heron/aca585ed0d.jpg
+data/obj/Eastern cattle egret/35abc1b82b.jpg
+data/obj/Common sandpiper/3dac8d3d5b.jpg
+data/obj/Eastern cattle egret/4c5ae35946.jpg
+data/obj/Chinese pond heron/6389f6751f(1).jpg
+data/obj/Black-crowned night heron/20691592a2.jpg
+data/obj/White-breasted waterhen/1382984123.jpg
+data/obj/Grey heron/28aff13161.jpg
+data/obj/Little egret/45a0594f69.jpg
+data/obj/Common sandpiper/2f3da34074.jpg
+data/obj/Grey heron/5b309d84ac.jpg
+data/obj/Purple heron/7e77202015.jpg
+data/obj/Striated heron/2a121f1527.jpg
+data/obj/Grey heron/f0602d5b39.jpg
+data/obj/Striated heron/6a4348f016.jpg
+data/obj/Striated heron/2d15bdf4df.jpg
+data/obj/White-breasted waterhen/c082d90c36.jpg
+data/obj/Black-crowned night heron/6942585066.jpg
+data/obj/Grey heron/8f0e13fd85.jpg
+data/obj/Purple heron/62ae4f5f67.jpg
+data/obj/Chinese pond heron/624da075f4(1).jpg
+data/obj/Yellow bittern/55182d4b73.jpg
+data/obj/Eastern cattle egret/14eb553880.jpg
+data/obj/Common sandpiper/8dd2d68c62.jpg
+data/obj/Black-crowned night heron/7edc7a82a4.jpg
+data/obj/Black-crowned night heron/a142792a6c.jpg
+data/obj/Chinese pond heron/8bf3df4a04.jpg
+data/obj/Little egret/96fbd7dd8c.jpg
+data/obj/Yellow bittern/03c16eaf6c.jpg
+data/obj/Yellow bittern/cf8b4c0bc4.jpg
+data/obj/Purple heron/2fc9e416f9.jpg
+data/obj/Little egret/1bb576e98a.jpg
+data/obj/Common sandpiper/d4d6a258d7.jpg
+data/obj/Black-crowned night heron/4f84731139.jpg
+data/obj/Grey heron/d89d952773.jpg
+data/obj/Eastern cattle egret/356454cb43.jpg
+data/obj/Striated heron/e3fe51e7ee.jpg
+data/obj/Eastern cattle egret/d54a7d841f.jpg
+data/obj/Purple heron/4a24a87f1c.jpg
+data/obj/Chinese pond heron/19d971cbbb.jpg
+data/obj/Chinese pond heron/a641d18aaf.jpg
+data/obj/Little egret/d2abab9807.jpg
+data/obj/Common sandpiper/e30ea199dd.jpg
+data/obj/Chinese pond heron/b288f69098.jpg
+data/obj/Little egret/f66f3644a9.jpg
+data/obj/Eastern cattle egret/c00bc3346f.jpg
+data/obj/Little egret/a76508ecde.jpg
+data/obj/Common sandpiper/3a48c458e7.jpg
+data/obj/Purple heron/0074152066.jpg

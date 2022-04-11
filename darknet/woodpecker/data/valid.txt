@@ -1,0 +1,43 @@
+data/obj/Rufous Woodpecker/8a42518f4f.jpg
+data/obj/Laced Woodpecker/f732c807a3.jpg
+data/obj/Rufous Woodpecker/d13bc6532c.jpg
+data/obj/Rufous Woodpecker/32c0e27eb0.jpg
+data/obj/Laced Woodpecker/f90dfcfdef.jpg
+data/obj/Common Flameback/719631ba8e.jpg
+data/obj/Coppersmith Barbet/a964c17a2a.jpg
+data/obj/Coppersmith Barbet/4bf7f0b54d.jpg
+data/obj/Common Flameback/7075de2ad7.jpg
+data/obj/Coppersmith Barbet/5cab85a215.jpg
+data/obj/Common Flameback/07a656e2be.jpg
+data/obj/Sunda Pygmy Woodpecker/40b49a8fca.jpg
+data/obj/Laced Woodpecker/fae0d7971c.jpg
+data/obj/Laced Woodpecker/e1af1cc13b.jpg
+data/obj/Rufous Woodpecker/75bc5cfcd6.jpg
+data/obj/Common Flameback/8a0a29bd92.jpg
+data/obj/Sunda Pygmy Woodpecker/b05854bf3a.jpg
+data/obj/Laced Woodpecker/f91f8a69e6.jpg
+data/obj/Common Flameback/980206620f.jpg
+data/obj/Coppersmith Barbet/4ea3b216be.jpg
+data/obj/Sunda Pygmy Woodpecker/2b836af8cf.jpg
+data/obj/Rufous Woodpecker/4d90f0d917.jpg
+data/obj/Coppersmith Barbet/11d9b1cc99.jpg
+data/obj/Common Flameback/8f0c2f6bc2.jpg
+data/obj/Sunda Pygmy Woodpecker/09db551836.jpg
+data/obj/Coppersmith Barbet/0d2847f294.jpg
+data/obj/Sunda Pygmy Woodpecker/892bb18730.jpg
+data/obj/Laced Woodpecker/7adb7a7016.jpg
+data/obj/Laced Woodpecker/a19548dfd2.jpg
+data/obj/Laced Woodpecker/87f5ecd89e.jpg
+data/obj/Common Flameback/2ae89b430e.jpg
+data/obj/Sunda Pygmy Woodpecker/71be90fb89.jpg
+data/obj/Coppersmith Barbet/07f781fddb.jpg
+data/obj/Rufous Woodpecker/688d3c0ed5.jpg
+data/obj/Sunda Pygmy Woodpecker/b79dad0a6e.jpg
+data/obj/Rufous Woodpecker/a3c90685a5.jpg
+data/obj/Sunda Pygmy Woodpecker/f57f7944d6.jpg
+data/obj/Rufous Woodpecker/59da3c5557.jpg
+data/obj/Rufous Woodpecker/0870272aec.jpg
+data/obj/Common Flameback/84a98c7d24.jpg
+data/obj/Common Flameback/b6ad53b6b6.jpg
+data/obj/Laced Woodpecker/5939c603a3.jpg
+data/obj/Coppersmith Barbet/a32e5c8599.jpg

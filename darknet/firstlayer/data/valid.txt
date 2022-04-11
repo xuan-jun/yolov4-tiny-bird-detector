@@ -1,0 +1,389 @@
+data/obj/Ashy Tailorbird/147c48f905.jpg
+data/obj/Pacific Swallow/d1f7fe342e.jpg
+data/obj/Pink-necked Green Pigeon/361f8aae11.jpg
+data/obj/Pink-necked Green Pigeon/2b07b30215.jpg
+data/obj/Brown-throated Sunbird/1589e41824.jpg
+data/obj/Malaysian Pied Fantail/6b6922b3f4.jpg
+data/obj/Ashy Tailorbird/4985cbd509.jpg
+data/obj/Brown Shrike/a934bade01.jpg
+data/obj/Ashy Tailorbird/b318a7f7c4.jpg
+data/obj/Oriental Pied Hornbill/c6aafc2f76.jpg
+data/obj/Common Tailorbird/d186791afd.jpg
+data/obj/Rose-ringed Parakeet/4871d6e971.jpg
+data/obj/Blue-tailed Bee-eater/571bdba156.jpg
+data/obj/Yellow-vented Bulbul/241aec595a.jpg
+data/obj/Brown-throated Sunbird/cab603d8e7.jpg
+data/obj/Savanna Nightjar/daeb8d1b49.jpg
+data/obj/Malaysian Pied Fantail/1d02513222.jpg
+data/obj/Pink-necked Green Pigeon/32ba0b5c01.jpg
+data/obj/Blue-tailed Bee-eater/4216905c16.jpg
+data/obj/Oriental Magpie-Robin/082408c2fc.jpg
+data/obj/Pink-necked Green Pigeon/ba0786dfce.jpg
+data/obj/Javan Myna/c58607b85b.jpg
+data/obj/Blue-tailed Bee-eater/f19ec8ea67.jpg
+data/obj/Zebra Dove/bfe41daf37.jpg
+data/obj/Asian Koel/e7fbb9be3d.jpg
+data/obj/Common Tailorbird/9507d308fd.jpg
+data/obj/Javan Myna/cbb17ceb39.jpg
+data/obj/Ashy Tailorbird/fbf120893e.jpg
+data/obj/Ashy Tailorbird/a3a16d0eb8.jpg
+data/obj/Yellow-vented Bulbul/3c2a5fdf03.jpg
+data/obj/Javan Myna/5d9326d5b8.jpg
+data/obj/Pacific Swallow/e8040c3b8d.jpg
+data/obj/Scarlet-backed Flowerpecker/97e0711dc1.jpg
+data/obj/Blue-tailed Bee-eater/1b3508fe3e.jpg
+data/obj/Black-naped Oriole/65cfdef78a.jpg
+data/obj/Common Myna/5619bbd682.jpg
+data/obj/Common Iora/3385f15c85.jpg
+data/obj/Yellow-vented Bulbul/218f864b36.jpg
+data/obj/Olive-backed Sunbird/0ffbc0e2b5.jpg
+data/obj/Blue-throated Bee-eater/79cdc651b8.jpg
+data/obj/Brown-throated Sunbird/4756af7f10.jpg
+data/obj/Brown-throated Sunbird/35525b3ae5.jpg
+data/obj/Scarlet-backed Flowerpecker/e91aaf11fd.jpg
+data/obj/Olive-backed Sunbird/941e875fd9.jpg
+data/obj/Savanna Nightjar/c51d324c86.jpg
+data/obj/Yellow-vented Bulbul/4d76ace592.jpg
+data/obj/Blue-throated Bee-eater/84959ef23a.jpg
+data/obj/Asian Glossy Starling/2c69410221.jpg
+data/obj/Brown-throated Sunbird/e0107df23f.jpg
+data/obj/Pacific Swallow/52160891bf.jpg
+data/obj/Malaysian Pied Fantail/95f4a9313a.jpg
+data/obj/Asian Koel/1d58ba8352.jpg
+data/obj/Savanna Nightjar/ab88b53f01.jpg
+data/obj/Asian Glossy Starling/d028261d0a.jpg
+data/obj/Rose-ringed Parakeet/77039c542c.jpg
+data/obj/Common Tailorbird/1c3e0ac048.jpg
+data/obj/Oriental Magpie-Robin/d166ef20e1.jpg
+data/obj/Blue-throated Bee-eater/811d788b27.jpg
+data/obj/Brown Shrike/2a030c6ddf.jpg
+data/obj/Savanna Nightjar/556e5ead37.jpg
+data/obj/Oriental Magpie-Robin/5ead1f3709.jpg
+data/obj/Oriental Pied Hornbill/7f69a85924.jpg
+data/obj/Javan Myna/8b846622b5.jpg
+data/obj/Yellow-vented Bulbul/7e7dd8c1ac.jpg
+data/obj/Asian Glossy Starling/42758525be.jpg
+data/obj/Pink-necked Green Pigeon/d88a7c84f2.jpg
+data/obj/Blue-throated Bee-eater/fe062806c4.jpg
+data/obj/Blue-tailed Bee-eater/29fb875dc5.jpg
+data/obj/Oriental Magpie-Robin/e98180822e.jpg
+data/obj/Pacific Swallow/3216a6533c.jpg
+data/obj/Asian Glossy Starling/aca32ceab1.jpg
+data/obj/Black-naped Oriole/f08bcf7840.jpg
+data/obj/Oriental Magpie-Robin/689c3339de.jpg
+data/obj/Common Tailorbird/5ee91d965b.jpg
+data/obj/Javan Myna/adf9a01d43.jpg
+data/obj/Javan Myna/b4b677aacf.jpg
+data/obj/Olive-backed Sunbird/66e0ca5cbd.jpg
+data/obj/Black-naped Oriole/1e0cc942db.jpg
+data/obj/Rose-ringed Parakeet/4f9a70d839.jpg
+data/obj/Common Myna/433c7c7cad.jpg
+data/obj/Rose-ringed Parakeet/66d0b3d304.jpg
+data/obj/Brown-throated Sunbird/5682942eed.jpg
+data/obj/Common Myna/82e2d57df4.jpg
+data/obj/Malaysian Pied Fantail/47803ee554.jpg
+data/obj/Zebra Dove/93261c0c24.jpg
+data/obj/Brown-throated Sunbird/d5f1acbb18.jpg
+data/obj/Common Iora/faaade80d3.jpg
+data/obj/Javan Myna/ad9e7c408f.jpg
+data/obj/Zebra Dove/ddc8f0d503.jpg
+data/obj/Zebra Dove/9610c36b03.jpg
+data/obj/Javan Myna/b8e3ef32d7.jpg
+data/obj/Brown Shrike/0d148a1db8.jpg
+data/obj/Blue-tailed Bee-eater/07df9d57fc.jpg
+data/obj/Common Tailorbird/ea37c42f94.jpg
+data/obj/Common Iora/6f0e62159a.jpg
+data/obj/Olive-backed Sunbird/e609c912ec.jpg
+data/obj/Rose-ringed Parakeet/1aa05f71e3.jpg
+data/obj/Asian Koel/0a4b44c4cd.jpg
+data/obj/Asian Glossy Starling/3d8daedb4b.jpg
+data/obj/Rose-ringed Parakeet/fa87b0794c.jpg
+data/obj/Malaysian Pied Fantail/e13fd3caa8.jpg
+data/obj/Ashy Tailorbird/81efdbcc32.jpg
+data/obj/Brown Shrike/dce6f4822c.jpg
+data/obj/Asian Koel/0808e40f0f.jpg
+data/obj/Common Iora/a3f0577ce1.jpg
+data/obj/Pacific Swallow/9162a2234b.jpg
+data/obj/Blue-throated Bee-eater/10a1d57763.jpg
+data/obj/Black-naped Oriole/c16f1dd1c8.jpg
+data/obj/Savanna Nightjar/1eb6816a3b.jpg
+data/obj/Oriental Pied Hornbill/6caf51483e.jpg
+data/obj/Brown Shrike/aaaacef90f.jpg
+data/obj/Malaysian Pied Fantail/8fd2a5b0f8.jpg
+data/obj/Rose-ringed Parakeet/a4abab4025.jpg
+data/obj/Malaysian Pied Fantail/1668d791d1.jpg
+data/obj/Olive-backed Sunbird/9cdd44a3f0.jpg
+data/obj/Pink-necked Green Pigeon/b288072c3b.jpg
+data/obj/Savanna Nightjar/624c607d84.jpg
+data/obj/Savanna Nightjar/1766106aa0.jpg
+data/obj/Blue-tailed Bee-eater/72a181c0c1.jpg
+data/obj/Brown Shrike/00e76b74e4.jpg
+data/obj/Zebra Dove/36c615611a.jpg
+data/obj/Black-naped Oriole/3934ae9c83.jpg
+data/obj/Oriental Magpie-Robin/a0cdb82d64.jpg
+data/obj/Oriental Pied Hornbill/1d7dbd34d8.jpg
+data/obj/Blue-throated Bee-eater/d50687d312.jpg
+data/obj/Savanna Nightjar/1822aac085.jpg
+data/obj/Ashy Tailorbird/351a84afa9.jpg
+data/obj/Asian Koel/a663feec24.jpg
+data/obj/Common Iora/0f2142a3b9.jpg
+data/obj/Asian Glossy Starling/6b950d49c0.jpg
+data/obj/Common Myna/631bf6b525.jpg
+data/obj/Black-naped Oriole/5372ceb5f5.jpg
+data/obj/Asian Glossy Starling/895ca9e3a8.jpg
+data/obj/Blue-tailed Bee-eater/b67f512726.jpg
+data/obj/Blue-tailed Bee-eater/7966161ae3.jpg
+data/obj/Olive-backed Sunbird/b662666c9c.jpg
+data/obj/Common Tailorbird/35afb1e565.jpg
+data/obj/Common Iora/8c799f24f7.jpg
+data/obj/Savanna Nightjar/21c00e6b47.jpg
+data/obj/Pacific Swallow/17bd1a140a.jpg
+data/obj/Ashy Tailorbird/02fe3ad68a.jpg
+data/obj/Scarlet-backed Flowerpecker/087e7fa270.jpg
+data/obj/Asian Koel/526f02bed9.jpg
+data/obj/Olive-backed Sunbird/e6b7e3329d.jpg
+data/obj/Malaysian Pied Fantail/6c061524ba.jpg
+data/obj/Zebra Dove/9684e7a23d.jpg
+data/obj/Brown Shrike/0298d3e203.jpg
+data/obj/Pink-necked Green Pigeon/473121f376.jpg
+data/obj/Blue-throated Bee-eater/81f1b8efb9.jpg
+data/obj/Blue-throated Bee-eater/5350b1866b.jpg
+data/obj/Olive-backed Sunbird/79bea27c1b.jpg
+data/obj/Yellow-vented Bulbul/12c68c405e.jpg
+data/obj/Common Tailorbird/0427eefbdb.jpg
+data/obj/Asian Glossy Starling/ac30cd1e6e.jpg
+data/obj/Scarlet-backed Flowerpecker/afeef0d409.jpg
+data/obj/Common Myna/7d06f85170.jpg
+data/obj/Ashy Tailorbird/b6616f2a2a.jpg
+data/obj/Common Myna/dba372ba1d.jpg
+data/obj/Malaysian Pied Fantail/71db3748b5.jpg
+data/obj/Oriental Magpie-Robin/09aadda1fa.jpg
+data/obj/Zebra Dove/604424afed.jpg
+data/obj/Scarlet-backed Flowerpecker/1b032434fc.jpg
+data/obj/Common Tailorbird/664a85b234.jpg
+data/obj/Zebra Dove/5e005712c3.jpg
+data/obj/Scarlet-backed Flowerpecker/1a33e4032f.jpg
+data/obj/Pink-necked Green Pigeon/e0ef141e38.jpg
+data/obj/Common Myna/a210f0b6c0.jpg
+data/obj/Brown-throated Sunbird/eb3c4e76a9.jpg
+data/obj/Asian Koel/dc7c1a3dd6.jpg
+data/obj/Blue-throated Bee-eater/f909907597.jpg
+data/obj/Yellow-vented Bulbul/b345ba814e.jpg
+data/obj/Scarlet-backed Flowerpecker/df4041b5e6.jpg
+data/obj/Brown-throated Sunbird/cbf4fd215d.jpg
+data/obj/Brown Shrike/1c1875390c.jpg
+data/obj/Common Iora/2840a14761.jpg
+data/obj/Pacific Swallow/bb194d4c7c.jpg
+data/obj/Rose-ringed Parakeet/f52fa4e9cd.jpg
+data/obj/Pacific Swallow/b60dde25c9.jpg
+data/obj/Black-naped Oriole/fd24df7ea0.jpg
+data/obj/Common Myna/0020ee3ea3.jpg
+data/obj/Zebra Dove/24343749f5.jpg
+data/obj/Common Iora/9fa29f4e92.jpg
+data/obj/Oriental Pied Hornbill/91ba18e92d.jpg
+data/obj/Scarlet-backed Flowerpecker/5b8e62bf09.jpg
+data/obj/Brown-throated Sunbird/f94bfc4084.jpg
+data/obj/Oriental Pied Hornbill/c25dd89df0.jpg
+data/obj/Oriental Pied Hornbill/5a8ad98029.jpg
+data/obj/Blue-throated Bee-eater/347fa2f2de.jpg
+data/obj/Olive-backed Sunbird/33027b5dc2.jpg
+data/obj/Scarlet-backed Flowerpecker/491aa61588.jpg
+data/obj/White-throated Kingfisher/e754d40041.jpg
+data/obj/Common Kingfisher/5b920ca0de.jpg
+data/obj/Collared Kingfisher/9daa395fee.jpg
+data/obj/Common Kingfisher/31d6258ace.jpg
+data/obj/White-throated Kingfisher/abac406874.jpg
+data/obj/Common Kingfisher/a46d853633.jpg
+data/obj/White-throated Kingfisher/de6ef11c52.jpg
+data/obj/Common Kingfisher/0625c9f05f.jpg
+data/obj/White-throated Kingfisher/1ec5cbcb6e.jpg
+data/obj/Stork-billed Kingfisher/9dfb2e1755.jpg
+data/obj/Common Kingfisher/c30253d035.jpg
+data/obj/White-throated Kingfisher/7bd5f0ba43.jpg
+data/obj/Collared Kingfisher/88067cafce.jpg
+data/obj/Stork-billed Kingfisher/a0efd3a877.jpg
+data/obj/Stork-billed Kingfisher/dcdf804b1f.jpg
+data/obj/Collared Kingfisher/997525405d.jpg
+data/obj/Collared Kingfisher/6f9adc4c5e.jpg
+data/obj/Common Kingfisher/3162b4fc3d.jpg
+data/obj/Collared Kingfisher/3f4f8e6ae4.jpg
+data/obj/White-throated Kingfisher/6e0fc1a29b.jpg
+data/obj/Collared Kingfisher/fe065340e5.jpg
+data/obj/Common Kingfisher/d346e65a82.jpg
+data/obj/White-throated Kingfisher/380b686536.jpg
+data/obj/Collared Kingfisher/f2f378e0d8.jpg
+data/obj/Stork-billed Kingfisher/ba71349ab5.jpg
+data/obj/Common Kingfisher/6e37931d86.jpg
+data/obj/Stork-billed Kingfisher/cfb55d20b7.jpg
+data/obj/White-throated Kingfisher/eb83868af4.jpg
+data/obj/Collared Kingfisher/329fedc03d.jpg
+data/obj/Collared Kingfisher/3b2a5533ee.jpg
+data/obj/White-throated Kingfisher/a740e83b6e.jpg
+data/obj/Stork-billed Kingfisher/00deca9b13.jpg
+data/obj/Stork-billed Kingfisher/88b6062712.jpg
+data/obj/White-bellied sea eagle/2fd8e32af4.jpg
+data/obj/Grey-headed fish eagle/9d0c9d61a5.jpg
+data/obj/Brahminy kite/de325b5f27.jpg
+data/obj/Brahminy kite/c64bb205ac.jpg
+data/obj/Grey-headed fish eagle/7184ee51ab.jpg
+data/obj/Spotted wood owl/fe1204a943.jpg
+data/obj/Spotted wood owl/a924b6a323.jpg
+data/obj/Grey-headed fish eagle/e1af63abd5.jpg
+data/obj/Buffy fish owl/32ff9ba949.jpg
+data/obj/Brahminy kite/824a450be0.jpg
+data/obj/Grey-headed fish eagle/85d2ba2414.jpg
+data/obj/Crested serpent eagle/59d0e15849.jpg
+data/obj/White-bellied sea eagle/75323e7f0d.jpg
+data/obj/Crested serpent eagle/aed0873445.jpg
+data/obj/Grey-headed fish eagle/3eddc5dabc.jpg
+data/obj/Buffy fish owl/dd106076a1.jpg
+data/obj/Crested serpent eagle/ac2900e5e6.jpg
+data/obj/Buffy fish owl/e9ab0b1e1e.jpg
+data/obj/White-bellied sea eagle/b2a91f55b0.jpg
+data/obj/White-bellied sea eagle/b986297e5c.jpg
+data/obj/Brahminy kite/59339ed4cf.jpg
+data/obj/Spotted wood owl/3436581b55.jpg
+data/obj/Grey-headed fish eagle/a5d633adfa.jpg
+data/obj/Crested serpent eagle/04f5b77e4f.jpg
+data/obj/Spotted wood owl/bad87d374d.jpg
+data/obj/Brahminy kite/e8a1dfa93c.jpg
+data/obj/Brahminy kite/147df0f243.jpg
+data/obj/Crested serpent eagle/4896febe48.jpg
+data/obj/Spotted wood owl/06bc1d0248.jpg
+data/obj/White-bellied sea eagle/cf7ff21265.jpg
+data/obj/Brahminy kite/227c9ef4b2.jpg
+data/obj/Crested serpent eagle/2b7b399fb8.jpg
+data/obj/Grey-headed fish eagle/198087a921.jpg
+data/obj/Buffy fish owl/256108606a.jpg
+data/obj/Crested serpent eagle/2e2a56bbf2.jpg
+data/obj/Buffy fish owl/9f6ccd7199.jpg
+data/obj/Buffy fish owl/e23eca25b4.jpg
+data/obj/Grey-headed fish eagle/064b58c382.jpg
+data/obj/Spotted wood owl/038035f1e6.jpg
+data/obj/Buffy fish owl/36eae8ec45.jpg
+data/obj/Buffy fish owl/de8956cf08.jpg
+data/obj/Spotted wood owl/6f7d5ff037.jpg
+data/obj/Spotted wood owl/6ac129e46e.jpg
+data/obj/Crested serpent eagle/ba7f063d16.jpg
+data/obj/Spotted wood owl/6a4a3b199d.jpg
+data/obj/White-bellied sea eagle/388f240997.jpg
+data/obj/Brahminy kite/947868a889.jpg
+data/obj/Grey-headed fish eagle/18e0c4cd2d.jpg
+data/obj/Black-crowned night heron/9c618b269d.jpg
+data/obj/Yellow bittern/449d98f886.jpg
+data/obj/Eastern cattle egret/536b0c833d.jpg
+data/obj/Grey heron/301db5fbf0.jpg
+data/obj/Yellow bittern/f9aa1e9877.jpg
+data/obj/Striated heron/a8f1fb16e5.jpg
+data/obj/Common sandpiper/7ff6b72d7b.jpg
+data/obj/Yellow bittern/f37a2827e9.jpg
+data/obj/White-breasted waterhen/da1e66ef15.jpg
+data/obj/Eastern cattle egret/06a92d496a.jpg
+data/obj/Yellow bittern/5bc5ab6512.jpg
+data/obj/Purple heron/1ea9521813.jpg
+data/obj/Purple heron/f6c9675410.jpg
+data/obj/Chinese pond heron/f84815efc1.jpg
+data/obj/Black-crowned night heron/4b54df3ce7.jpg
+data/obj/Grey heron/aa29c05d30.jpg
+data/obj/Striated heron/edae514886.jpg
+data/obj/White-breasted waterhen/b6be84a24b.jpg
+data/obj/Striated heron/93efae8549.jpg
+data/obj/Yellow bittern/752ba3f682.jpg
+data/obj/White-breasted waterhen/f8a98c811c.jpg
+data/obj/Striated heron/e74e8f7c69.jpg
+data/obj/Grey heron/917fc12d45.jpg
+data/obj/Chinese pond heron/bd522e0df2.jpg
+data/obj/Little egret/18250f8630.jpg
+data/obj/White-breasted waterhen/f8892764f2.jpg
+data/obj/Black-crowned night heron/aca585ed0d.jpg
+data/obj/Eastern cattle egret/35abc1b82b.jpg
+data/obj/Common sandpiper/3dac8d3d5b.jpg
+data/obj/Eastern cattle egret/4c5ae35946.jpg
+data/obj/Chinese pond heron/6389f6751f(1).jpg
+data/obj/Black-crowned night heron/20691592a2.jpg
+data/obj/White-breasted waterhen/1382984123.jpg
+data/obj/Grey heron/28aff13161.jpg
+data/obj/Little egret/45a0594f69.jpg
+data/obj/Common sandpiper/2f3da34074.jpg
+data/obj/Grey heron/5b309d84ac.jpg
+data/obj/Purple heron/7e77202015.jpg
+data/obj/Striated heron/2a121f1527.jpg
+data/obj/Grey heron/f0602d5b39.jpg
+data/obj/Striated heron/6a4348f016.jpg
+data/obj/Striated heron/2d15bdf4df.jpg
+data/obj/White-breasted waterhen/c082d90c36.jpg
+data/obj/Black-crowned night heron/6942585066.jpg
+data/obj/Grey heron/8f0e13fd85.jpg
+data/obj/Purple heron/62ae4f5f67.jpg
+data/obj/Chinese pond heron/624da075f4(1).jpg
+data/obj/Yellow bittern/55182d4b73.jpg
+data/obj/Eastern cattle egret/14eb553880.jpg
+data/obj/Common sandpiper/8dd2d68c62.jpg
+data/obj/Black-crowned night heron/7edc7a82a4.jpg
+data/obj/Black-crowned night heron/a142792a6c.jpg
+data/obj/Chinese pond heron/8bf3df4a04.jpg
+data/obj/Little egret/96fbd7dd8c.jpg
+data/obj/Yellow bittern/03c16eaf6c.jpg
+data/obj/Yellow bittern/cf8b4c0bc4.jpg
+data/obj/Purple heron/2fc9e416f9.jpg
+data/obj/Little egret/1bb576e98a.jpg
+data/obj/Common sandpiper/d4d6a258d7.jpg
+data/obj/Black-crowned night heron/4f84731139.jpg
+data/obj/Grey heron/d89d952773.jpg
+data/obj/Eastern cattle egret/356454cb43.jpg
+data/obj/Striated heron/e3fe51e7ee.jpg
+data/obj/Eastern cattle egret/d54a7d841f.jpg
+data/obj/Purple heron/4a24a87f1c.jpg
+data/obj/Chinese pond heron/19d971cbbb.jpg
+data/obj/Chinese pond heron/a641d18aaf.jpg
+data/obj/Little egret/d2abab9807.jpg
+data/obj/Common sandpiper/e30ea199dd.jpg
+data/obj/Chinese pond heron/b288f69098.jpg
+data/obj/Little egret/f66f3644a9.jpg
+data/obj/Eastern cattle egret/c00bc3346f.jpg
+data/obj/Little egret/a76508ecde.jpg
+data/obj/Common sandpiper/3a48c458e7.jpg
+data/obj/Purple heron/0074152066.jpg
+data/obj/Rufous Woodpecker/8a42518f4f.jpg
+data/obj/Laced Woodpecker/f732c807a3.jpg
+data/obj/Rufous Woodpecker/d13bc6532c.jpg
+data/obj/Rufous Woodpecker/32c0e27eb0.jpg
+data/obj/Laced Woodpecker/f90dfcfdef.jpg
+data/obj/Common Flameback/719631ba8e.jpg
+data/obj/Coppersmith Barbet/a964c17a2a.jpg
+data/obj/Coppersmith Barbet/4bf7f0b54d.jpg
+data/obj/Common Flameback/7075de2ad7.jpg
+data/obj/Coppersmith Barbet/5cab85a215.jpg
+data/obj/Common Flameback/07a656e2be.jpg
+data/obj/Sunda Pygmy Woodpecker/40b49a8fca.jpg
+data/obj/Laced Woodpecker/fae0d7971c.jpg
+data/obj/Laced Woodpecker/e1af1cc13b.jpg
+data/obj/Rufous Woodpecker/75bc5cfcd6.jpg
+data/obj/Common Flameback/8a0a29bd92.jpg
+data/obj/Sunda Pygmy Woodpecker/b05854bf3a.jpg
+data/obj/Laced Woodpecker/f91f8a69e6.jpg
+data/obj/Common Flameback/980206620f.jpg
+data/obj/Coppersmith Barbet/4ea3b216be.jpg
+data/obj/Sunda Pygmy Woodpecker/2b836af8cf.jpg
+data/obj/Rufous Woodpecker/4d90f0d917.jpg
+data/obj/Coppersmith Barbet/11d9b1cc99.jpg
+data/obj/Common Flameback/8f0c2f6bc2.jpg
+data/obj/Sunda Pygmy Woodpecker/09db551836.jpg
+data/obj/Coppersmith Barbet/0d2847f294.jpg
+data/obj/Sunda Pygmy Woodpecker/892bb18730.jpg
+data/obj/Laced Woodpecker/7adb7a7016.jpg
+data/obj/Laced Woodpecker/a19548dfd2.jpg
+data/obj/Laced Woodpecker/87f5ecd89e.jpg
+data/obj/Common Flameback/2ae89b430e.jpg
+data/obj/Sunda Pygmy Woodpecker/71be90fb89.jpg
+data/obj/Coppersmith Barbet/07f781fddb.jpg
+data/obj/Rufous Woodpecker/688d3c0ed5.jpg
+data/obj/Sunda Pygmy Woodpecker/b79dad0a6e.jpg
+data/obj/Rufous Woodpecker/a3c90685a5.jpg
+data/obj/Sunda Pygmy Woodpecker/f57f7944d6.jpg
+data/obj/Rufous Woodpecker/59da3c5557.jpg
+data/obj/Rufous Woodpecker/0870272aec.jpg
+data/obj/Common Flameback/84a98c7d24.jpg
+data/obj/Common Flameback/b6ad53b6b6.jpg
+data/obj/Laced Woodpecker/5939c603a3.jpg
+data/obj/Coppersmith Barbet/a32e5c8599.jpg

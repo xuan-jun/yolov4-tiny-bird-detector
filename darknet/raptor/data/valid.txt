@@ -1,0 +1,48 @@
+data/obj/White-bellied sea eagle/2fd8e32af4.jpg
+data/obj/Grey-headed fish eagle/9d0c9d61a5.jpg
+data/obj/Brahminy kite/de325b5f27.jpg
+data/obj/Brahminy kite/c64bb205ac.jpg
+data/obj/Grey-headed fish eagle/7184ee51ab.jpg
+data/obj/Spotted wood owl/fe1204a943.jpg
+data/obj/Spotted wood owl/a924b6a323.jpg
+data/obj/Grey-headed fish eagle/e1af63abd5.jpg
+data/obj/Buffy fish owl/32ff9ba949.jpg
+data/obj/Brahminy kite/824a450be0.jpg
+data/obj/Grey-headed fish eagle/85d2ba2414.jpg
+data/obj/Crested serpent eagle/59d0e15849.jpg
+data/obj/White-bellied sea eagle/75323e7f0d.jpg
+data/obj/Crested serpent eagle/aed0873445.jpg
+data/obj/Grey-headed fish eagle/3eddc5dabc.jpg
+data/obj/Buffy fish owl/dd106076a1.jpg
+data/obj/Crested serpent eagle/ac2900e5e6.jpg
+data/obj/Buffy fish owl/e9ab0b1e1e.jpg
+data/obj/White-bellied sea eagle/b2a91f55b0.jpg
+data/obj/White-bellied sea eagle/b986297e5c.jpg
+data/obj/Brahminy kite/59339ed4cf.jpg
+data/obj/Spotted wood owl/3436581b55.jpg
+data/obj/Grey-headed fish eagle/a5d633adfa.jpg
+data/obj/Crested serpent eagle/04f5b77e4f.jpg
+data/obj/Spotted wood owl/bad87d374d.jpg
+data/obj/Brahminy kite/e8a1dfa93c.jpg
+data/obj/Brahminy kite/147df0f243.jpg
+data/obj/Crested serpent eagle/4896febe48.jpg
+data/obj/Spotted wood owl/06bc1d0248.jpg
+data/obj/White-bellied sea eagle/cf7ff21265.jpg
+data/obj/Brahminy kite/227c9ef4b2.jpg
+data/obj/Crested serpent eagle/2b7b399fb8.jpg
+data/obj/Grey-headed fish eagle/198087a921.jpg
+data/obj/Buffy fish owl/256108606a.jpg
+data/obj/Crested serpent eagle/2e2a56bbf2.jpg
+data/obj/Buffy fish owl/9f6ccd7199.jpg
+data/obj/Buffy fish owl/e23eca25b4.jpg
+data/obj/Grey-headed fish eagle/064b58c382.jpg
+data/obj/Spotted wood owl/038035f1e6.jpg
+data/obj/Buffy fish owl/36eae8ec45.jpg
+data/obj/Buffy fish owl/de8956cf08.jpg
+data/obj/Spotted wood owl/6f7d5ff037.jpg
+data/obj/Spotted wood owl/6ac129e46e.jpg
+data/obj/Crested serpent eagle/ba7f063d16.jpg
+data/obj/Spotted wood owl/6a4a3b199d.jpg
+data/obj/White-bellied sea eagle/388f240997.jpg
+data/obj/Brahminy kite/947868a889.jpg
+data/obj/Grey-headed fish eagle/18e0c4cd2d.jpg

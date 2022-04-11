@@ -1,0 +1,190 @@
+data/obj/Brown-throated Sunbird/d8f8caf05f.jpg
+data/obj/Brown Shrike/1e6b6ce275.jpg
+data/obj/Blue-throated Bee-eater/92b87d6b06.jpg
+data/obj/Asian Glossy Starling/69805fc074.jpg
+data/obj/Zebra Dove/bb791b25c5.jpg
+data/obj/Brown-throated Sunbird/b19d53d115.jpg
+data/obj/Yellow-vented Bulbul/0de7385c02.jpg
+data/obj/Asian Glossy Starling/c93109f043.jpg
+data/obj/Pink-necked Green Pigeon/19f3bdd335.jpg
+data/obj/Yellow-vented Bulbul/00a4018b45.jpg
+data/obj/Blue-tailed Bee-eater/127b7d155b.jpg
+data/obj/Common Tailorbird/25a99281ee.jpg
+data/obj/Pacific Swallow/bb6d283eb8.jpg
+data/obj/Black-naped Oriole/51acb0bd96.jpg
+data/obj/Zebra Dove/e8dbc41c0f.jpg
+data/obj/Javan Myna/2182559c91.jpg
+data/obj/Brown-throated Sunbird/97402ff68e.jpg
+data/obj/Pacific Swallow/d56b4e7b6c.jpg
+data/obj/Common Tailorbird/9d6439c7ab.jpg
+data/obj/Ashy Tailorbird/ce8343bf96.jpg
+data/obj/Scarlet-backed Flowerpecker/e7a2126dfc.jpg
+data/obj/Oriental Magpie-Robin/27e5c5ba55.jpg
+data/obj/Brown-throated Sunbird/b4036e07b5.jpg
+data/obj/Javan Myna/80e44d2da3.jpg
+data/obj/Savanna Nightjar/e9c3c5eb1b.jpg
+data/obj/Olive-backed Sunbird/4cf47b070a.jpg
+data/obj/Blue-throated Bee-eater/2c1ee6af90.jpg
+data/obj/Olive-backed Sunbird/c165dec927.jpg
+data/obj/Javan Myna/2151e23080.jpg
+data/obj/Common Iora/5b23c721cd.jpg
+data/obj/Blue-throated Bee-eater/4c05419720.jpg
+data/obj/Asian Glossy Starling/e6d655ca59.jpg
+data/obj/Yellow-vented Bulbul/40cb12d237.jpg
+data/obj/Blue-throated Bee-eater/2735338887.jpg
+data/obj/Rose-ringed Parakeet/753ba376d9.jpg
+data/obj/Blue-tailed Bee-eater/66c4dc24e0.jpg
+data/obj/Pink-necked Green Pigeon/678667249c.jpg
+data/obj/Malaysian Pied Fantail/9680f3bdfe.jpg
+data/obj/Yellow-vented Bulbul/bf5f1c216e.jpg
+data/obj/Common Myna/3eafc98d1a.jpg
+data/obj/Rose-ringed Parakeet/f9fa608a69.jpg
+data/obj/Rose-ringed Parakeet/4321a1c25f.jpg
+data/obj/Savanna Nightjar/522701b18b.jpg
+data/obj/Olive-backed Sunbird/fc8cd26510.jpg
+data/obj/Brown-throated Sunbird/05fde2b39e.jpg
+data/obj/Common Iora/47ab9c33d3.jpg
+data/obj/Malaysian Pied Fantail/c352559bc2.jpg
+data/obj/Common Iora/08f39abab8.jpg
+data/obj/Zebra Dove/c9e5f48a84.jpg
+data/obj/Common Myna/f5e99eb80f.jpg
+data/obj/Blue-throated Bee-eater/0913156c86.jpg
+data/obj/Yellow-vented Bulbul/ef8fc95968.jpg
+data/obj/Ashy Tailorbird/479f23ea83.jpg
+data/obj/Zebra Dove/633f32a519.jpg
+data/obj/Pacific Swallow/4bb259fea2.jpg
+data/obj/Oriental Magpie-Robin/1e4d0a8d80.jpg
+data/obj/Blue-throated Bee-eater/b8a7b8b6c0.jpg
+data/obj/Malaysian Pied Fantail/b586ca70ca.jpg
+data/obj/Malaysian Pied Fantail/6e2fe69ddc.jpg
+data/obj/Black-naped Oriole/de5e56fddf.jpg
+data/obj/Oriental Pied Hornbill/750124438c.jpg
+data/obj/Savanna Nightjar/8eee8c914b.jpg
+data/obj/Asian Koel/2b0c172a5b.jpg
+data/obj/Savanna Nightjar/cee8fba2ba.jpg
+data/obj/Black-naped Oriole/883d1aac9e.jpg
+data/obj/Common Iora/39ee85cc2f.jpg
+data/obj/Ashy Tailorbird/175ea2276d.jpg
+data/obj/Brown Shrike/70f1f83967.jpg
+data/obj/Ashy Tailorbird/61122fe17c.jpg
+data/obj/Pink-necked Green Pigeon/2183fbaa25.jpg
+data/obj/Brown Shrike/75320498c1.jpg
+data/obj/Ashy Tailorbird/f02531ac30.jpg
+data/obj/Common Iora/703fd9de70.jpg
+data/obj/Ashy Tailorbird/bb5b5260ef.jpg
+data/obj/Pink-necked Green Pigeon/f1dd49efef.jpg
+data/obj/Pacific Swallow/36493cf51f.jpg
+data/obj/Blue-tailed Bee-eater/11a9d6e65e.jpg
+data/obj/Olive-backed Sunbird/0f0137de25.jpg
+data/obj/Brown-throated Sunbird/09318a8354.jpg
+data/obj/Malaysian Pied Fantail/a732d56369.jpg
+data/obj/Black-naped Oriole/7fe8729167.jpg
+data/obj/Malaysian Pied Fantail/c76ae251c4.jpg
+data/obj/Pacific Swallow/34ba262a8b.jpg
+data/obj/Ashy Tailorbird/a3e70b4782.jpg
+data/obj/Brown-throated Sunbird/87ce3cdeb5.jpg
+data/obj/Rose-ringed Parakeet/62323b582a.jpg
+data/obj/Scarlet-backed Flowerpecker/d4a06ceb32.jpg
+data/obj/Savanna Nightjar/19ae4b9037.jpg
+data/obj/Asian Koel/6be7fd932f.jpg
+data/obj/Blue-throated Bee-eater/d2a12bf836.jpg
+data/obj/Common Myna/8c6a0081a6.jpg
+data/obj/Scarlet-backed Flowerpecker/7671b9594b.jpg
+data/obj/Asian Glossy Starling/c8d5723631.jpg
+data/obj/Oriental Pied Hornbill/750f4a818d.jpg
+data/obj/Brown-throated Sunbird/c3736a50f2.jpg
+data/obj/Scarlet-backed Flowerpecker/f821e42426.jpg
+data/obj/Oriental Pied Hornbill/0559e1d331.jpg
+data/obj/Olive-backed Sunbird/526e8a0ccf.jpg
+data/obj/Common Tailorbird/81c235f2bb.jpg
+data/obj/Olive-backed Sunbird/427ccb2cb0.jpg
+data/obj/Brown-throated Sunbird/ec303fba63.jpg
+data/obj/Javan Myna/a59c8b8480.jpg
+data/obj/Common Tailorbird/af2446bbaa.jpg
+data/obj/Zebra Dove/10ea1f96f7.jpg
+data/obj/Blue-throated Bee-eater/141ecc8742.jpg
+data/obj/Common Myna/145f19e730.jpg
+data/obj/Blue-tailed Bee-eater/b257c50107.jpg
+data/obj/Common Iora/6af6da191c.jpg
+data/obj/Blue-throated Bee-eater/ec73f70f15.jpg
+data/obj/Common Tailorbird/ff31e58b09.jpg
+data/obj/Javan Myna/f47b15aad5.jpg
+data/obj/Oriental Magpie-Robin/82c98b90e2.jpg
+data/obj/Asian Koel/f5e5b2ff9b.jpg
+data/obj/Oriental Magpie-Robin/a4e3769dca.jpg
+data/obj/Ashy Tailorbird/02a46396a0.jpg
+data/obj/Savanna Nightjar/a1d386cd39.jpg
+data/obj/Malaysian Pied Fantail/0918613bfb.jpg
+data/obj/Pink-necked Green Pigeon/8c8bf7018a.jpg
+data/obj/Savanna Nightjar/d3a51ba845.jpg
+data/obj/Oriental Magpie-Robin/5fd45dc222.jpg
+data/obj/Scarlet-backed Flowerpecker/021052dfd9.jpg
+data/obj/Asian Koel/8dc9840224.jpg
+data/obj/Oriental Pied Hornbill/31c077899d.jpg
+data/obj/Yellow-vented Bulbul/ea9cb2003c.jpg
+data/obj/Zebra Dove/ef982a06c4.jpg
+data/obj/Common Myna/5c87bfd298.jpg
+data/obj/Rose-ringed Parakeet/8858eba96c.jpg
+data/obj/Blue-tailed Bee-eater/a1a4dde347.jpg
+data/obj/Brown-throated Sunbird/c89f9d9a8f.jpg
+data/obj/Brown Shrike/8d6fe2d39b.jpg
+data/obj/Brown Shrike/543a996bcc.jpg
+data/obj/Asian Glossy Starling/567d7d17c7.jpg
+data/obj/Common Iora/f5036562ed.jpg
+data/obj/Malaysian Pied Fantail/a0b2fe4d03.jpg
+data/obj/Oriental Pied Hornbill/4cc66d5123.jpg
+data/obj/Blue-throated Bee-eater/b0f70dcb23.jpg
+data/obj/Pacific Swallow/1721777460.jpg
+data/obj/Oriental Magpie-Robin/71ca4bd62b.jpg
+data/obj/Common Myna/f1accf9099.jpg
+data/obj/Pacific Swallow/43439c3458.jpg
+data/obj/Asian Glossy Starling/8cd1ebf9f8.jpg
+data/obj/Olive-backed Sunbird/ffbfccfa64.jpg
+data/obj/Rose-ringed Parakeet/99891721c3.jpg
+data/obj/Brown Shrike/169718670a.jpg
+data/obj/Olive-backed Sunbird/96f08ca55c.jpg
+data/obj/Olive-backed Sunbird/975279ef8c.jpg
+data/obj/Javan Myna/dfc0ccf1d0.jpg
+data/obj/Common Tailorbird/54dd2bfc85.jpg
+data/obj/Common Myna/b1cff712e1.jpg
+data/obj/Ashy Tailorbird/dd0e46f10a.jpg
+data/obj/Pink-necked Green Pigeon/e397b12481.jpg
+data/obj/Rose-ringed Parakeet/e83cb12c93.jpg
+data/obj/Yellow-vented Bulbul/7fc67bc340.jpg
+data/obj/Common Tailorbird/9adf42f8f6.jpg
+data/obj/Pink-necked Green Pigeon/6039bbea33.jpg
+data/obj/Savanna Nightjar/4274976aec.jpg
+data/obj/Asian Koel/81aeb15f4f.jpg
+data/obj/Zebra Dove/5a3adc80fe.jpg
+data/obj/Common Iora/47513524c1.jpg
+data/obj/Savanna Nightjar/ddf90270d9.jpg
+data/obj/Malaysian Pied Fantail/e4fa87f340.jpg
+data/obj/Pink-necked Green Pigeon/63773c8004.jpg
+data/obj/Scarlet-backed Flowerpecker/25b22382e8.jpg
+data/obj/Pacific Swallow/1a26d7938e.jpg
+data/obj/Oriental Pied Hornbill/4714e00e41.jpg
+data/obj/Blue-tailed Bee-eater/45d574469b.jpg
+data/obj/Scarlet-backed Flowerpecker/f6e1e121b4.jpg
+data/obj/Black-naped Oriole/c37f31e9e4.jpg
+data/obj/Scarlet-backed Flowerpecker/b1e29345c9.jpg
+data/obj/Black-naped Oriole/cebba22f2b.jpg
+data/obj/Blue-tailed Bee-eater/3f8ed50e8d.jpg
+data/obj/Asian Glossy Starling/43314afd25.jpg
+data/obj/Asian Koel/c132b5e6a8.jpg
+data/obj/Common Iora/151c3804b8.jpg
+data/obj/Common Myna/16d75b5624.jpg
+data/obj/Scarlet-backed Flowerpecker/596062b33e.jpg
+data/obj/Rose-ringed Parakeet/11023f2c25.jpg
+data/obj/Brown Shrike/c00025406d.jpg
+data/obj/Asian Glossy Starling/a2c133428c.jpg
+data/obj/Brown Shrike/ff4fcad8bb.jpg
+data/obj/Blue-tailed Bee-eater/2ae5eeadc7.jpg
+data/obj/Oriental Pied Hornbill/57e5112dab.jpg
+data/obj/Javan Myna/93d99270a7.jpg
+data/obj/Black-naped Oriole/9701549d53.jpg
+data/obj/Zebra Dove/64fa6bfd93.jpg
+data/obj/Javan Myna/a433d9c927.jpg
+data/obj/Zebra Dove/101eb4b6c8.jpg
+data/obj/Common Tailorbird/ff187a0bab.jpg
+data/obj/Asian Koel/8dd461ae31.jpg
+data/obj/Oriental Magpie-Robin/24d70ee102.jpg
